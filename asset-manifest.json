@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HernanqyMalon/static/css/main.08b40287.css",
+    "main.js": "/HernanqyMalon/static/js/main.aaad9e56.js",
+    "static/media/ga16.jpg": "/HernanqyMalon/static/media/ga16.76b3239948716596919e.jpg",
+    "static/media/legendarios.jpeg": "/HernanqyMalon/static/media/legendarios.ac944453295ce490f735.jpeg",
+    "index.html": "/HernanqyMalon/index.html",
+    "main.08b40287.css.map": "/HernanqyMalon/static/css/main.08b40287.css.map",
+    "main.aaad9e56.js.map": "/HernanqyMalon/static/js/main.aaad9e56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08b40287.css",
+    "static/js/main.aaad9e56.js"
+  ]
+}
